@@ -44,7 +44,7 @@ export default class Calendar extends Component {
         'start': '开 始',
         'end': '结 束',
         'date': '日 期',
-        'save': '保 存',
+        'save': '确 定',
         'clear': '清除'
       },
       'date': 'M月D日'
